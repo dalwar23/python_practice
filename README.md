@@ -1,6 +1,23 @@
-python_practice
+Introduction
 ===============
+This practice files contains some simple basic python coding to start with.
 
-my very own python practice files
+Python version : 
+================
+Python 3.3.2 (v3.3.2:d047928ae3f6, May 16 2013, 00:03:43) [MSC v.1600 32 bit (Intel)] on win32
 
-This repo contains only my python practice files.
+Indentation:
+============
+4 spaces
+
+Comments:
+=========
+#
+
+License:
+========
+Public
+
+Restriction:
+============
+None
