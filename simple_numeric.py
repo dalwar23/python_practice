@@ -1,6 +1,7 @@
 # !/usr/bin/python -tt
 # import system library
 import sys
+
 # simple numeric calculations
 var1 = 45
 var2 = 46
