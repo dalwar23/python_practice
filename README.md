@@ -10,10 +10,6 @@ Indentation:
 ============
 4 spaces
 
-Comments:
-=========
-#
-
 License:
 ========
 Public
