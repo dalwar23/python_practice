@@ -12,7 +12,7 @@ Indentation:
 
 Copyright
 =========
-All rights reserved by www.arif23.com
+All rights reserved by www.arif23.com/codexplained
 
 License:
 ========
